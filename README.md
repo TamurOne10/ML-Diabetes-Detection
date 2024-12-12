@@ -109,7 +109,7 @@ df = df[(df['BP'] >= lower_bound) & (df['BP'] <= upper_bound)]
 ---
 
 ## Results
-- Final model achieved an accuracy of XX% and an F1-score of XX.
+- Final model achieved an accuracy of 85 % and an F1-score of XX.
 - Identified key predictors of diabetes: Glucose, BMI, and Age.
 
 ---
